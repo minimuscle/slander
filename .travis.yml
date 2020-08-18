@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - node_modules
+script:
+  - yarn test -- --coverage # Include coverage when running tests
+after_script: # Upload coverage reports 
+  - COVERALLS_REPO_TOKEN=gdN0R5MX237O8tPbfhm29Jln4SgWG9PYm yarn run coveralls
