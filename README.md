@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/minimuscle/slander.svg?branch=master)](https://travis-ci.com/minimuscle/slander)![GitHub top language](https://img.shields.io/github/languages/top/minimuscle/slander)[![Coverage Status](https://coveralls.io/repos/github/minimuscle/slander/badge.svg?branch=master)](https://coveralls.io/github/minimuscle/slander?branch=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
